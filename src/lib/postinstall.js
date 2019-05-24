@@ -2800,7 +2800,7 @@ var fs = __webpack_require__(/*! fs */ 2);
 var path = __webpack_require__(/*! path */ 3);
 var prompt = __webpack_require__(/*! prompt-lite */ 1);
 
-const FABRIC_GRADLE_TOOLS = '1.+'
+const FABRIC_GRADLE_TOOLS = '1.27.1'
 const FABRIC_ANDROID_CRASHLYTICS = '2.9.1';
 const FABRIC_ANDROID_ANSWERS = '1.4.1';
 const FABRIC_IOS_CRASHLYTICS = '3.10.1';
